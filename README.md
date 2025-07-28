@@ -1,6 +1,6 @@
-## Software engineer with ai-first, full-stack, and machine learning experience | Gauntlet AI Cohort 2
+## Software engineer with ai-first, full-stack, and machine learning experience
 
-You can view my recent projects pinned below.
+You can view my recent projects from Gauntlet AI Cohort 2 pinned below.
 
 <!--
 **tslaton/tslaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
