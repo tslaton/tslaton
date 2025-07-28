@@ -1,4 +1,6 @@
-## Hi there 👋
+## Software engineer with ai-first, full-stack, and machine learning experience | Gauntlet AI Cohort 2
+
+You can view my recent projects pinned below.
 
 <!--
 **tslaton/tslaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
